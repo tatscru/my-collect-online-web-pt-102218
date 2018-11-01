@@ -1,8 +1,8 @@
-(collection)
+def (collection)
  while 
  
- yield(array[])
- end 
+  yield(array[])
+  end 
  end 
  
  
