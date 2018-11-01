@@ -12,8 +12,9 @@ def my_collect(collection)
   new_collection = []
     # here we are iterating over a new collection into a while loop
     while i < collection.length 
-      new_collection << yield
+      new_collection << yield(collection[i])
   end 
+  collection
 end 
  
  
