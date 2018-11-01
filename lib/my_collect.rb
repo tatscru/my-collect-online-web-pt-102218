@@ -1,4 +1,4 @@
-def (collection)
+def my_collect(array)
  while 
 
     yield(array[])
