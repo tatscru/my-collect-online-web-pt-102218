@@ -6,7 +6,7 @@
 collection 
 # end 
 
-def my_collect(collection)
+def my_collect(languages)
   # method being called takes in collection as an arg.
   i = [] 
   new_collection = []
