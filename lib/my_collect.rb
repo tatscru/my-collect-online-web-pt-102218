@@ -1,6 +1,9 @@
 (collection)
  while 
  
- yield(array)
+ yield(array[])
+ end 
+ end 
+ 
  
 
