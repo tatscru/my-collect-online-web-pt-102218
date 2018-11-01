@@ -1,4 +1,4 @@
-def my_collect(array) do |i|
+def my_collect(array)
   i = 0
  while 
     yield(array[])
