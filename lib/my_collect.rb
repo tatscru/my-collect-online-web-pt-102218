@@ -1,3 +1,5 @@
 (collection)
-
+ while 
+ 
+ yield 
 
