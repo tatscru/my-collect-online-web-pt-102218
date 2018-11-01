@@ -4,6 +4,7 @@ def my_collect(collection)
   # here we are iterating over a new collection into a while loop
  while 
     yield(array[i])
+    new_collection <<
   end 
  end 
  
