@@ -7,6 +7,7 @@
 #   # while i is less than the original array in any length given 
 #     new_collection.upcase << yield(collection[i])
 #   end 
+collection 
 # end 
  
  
