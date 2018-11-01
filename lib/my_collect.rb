@@ -1,5 +1,6 @@
 (collection)
  while 
  
- yield 
+ yield(array)
+ 
 
