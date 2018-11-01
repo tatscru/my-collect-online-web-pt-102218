@@ -8,7 +8,7 @@ collection
 
 def my_collect(collection)
   # method being called takes in collection as an arg.
-  i = 0 
+  i = [] 
   new_collection = []
     # here we are iterating over a new collection into a while loop
     while i < collection.length 
