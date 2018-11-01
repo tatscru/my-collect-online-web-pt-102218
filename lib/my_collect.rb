@@ -5,8 +5,7 @@ def my_collect(collection)
   # here we are iterating over a new collection into a while loop
  while i < collection.length 
   # while i is less than the original array in any length given 
-    yield(array[i])
-    new_collection <<
+    new_collection << yield(array[i])
   end 
  end 
  
